@@ -17,7 +17,7 @@ public class MapExample4 {
 		for (Employee emp : set) {
 			map.put(emp.getEmployeeId(), emp.getLastName());
 		}
-		
+	
 		
 		
 		
